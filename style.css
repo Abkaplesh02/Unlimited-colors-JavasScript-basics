@@ -1,0 +1,28 @@
+body{
+    background-color: #212121;
+    color: #fff;
+}
+
+.Navigation{
+    background-color: darkgrey;
+    text-align: center;
+    margin-top: -8px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+
+}
+
+.Navigation a{
+
+    text-decoration: none;
+    border: 1px solid black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 10px;
+    background-color: grey;
+    color: black;
+    cursor: pointer;
+}
